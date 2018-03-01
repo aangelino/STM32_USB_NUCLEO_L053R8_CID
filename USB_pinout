@@ -1,0 +1,2 @@
+BLU    (USB_DP) --> PA_12 -->pin12(CN10)
+PURPLE (USB_DM) --> PA_11 -->pin14(CN10)
